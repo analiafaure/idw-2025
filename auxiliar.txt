@@ -1,0 +1,14 @@
+selector {
+    propiedad : valor;
+}
+
+.clase {
+    propiedad: valor;
+}
+
+margin: 0 0 10px 0
+
+0: margen arriba (top)
+0: margen derecha (right)
+10px: margen abajo (bottom)
+0: margen izquierdo (left)
